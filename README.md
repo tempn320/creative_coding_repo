@@ -9,7 +9,12 @@ this repo is where i store my projects made in creative coding: python
 [my github](https://github.com/tempn320)
 
 <!-- how to insert an image -->
-<!-- ![lauren yelling](lauren.jpeg) -->
+<!-- ![ellie laying down](ellie.jpeg) -->
 
 <!-- how to insert an image with the ability to resize it -->
-<img src ="lauren.jpeg" width="100" alt="lauren screams at man">
+<img src ="ellie.jpeg" width="200" alt="my dog ellie looks cute">
+
+## resources i'm using to learn python
+
+- class resources
+- [W3 tutorials](https://www.w3schools.com/python/default.asp)
