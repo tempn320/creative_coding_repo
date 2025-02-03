@@ -16,5 +16,6 @@ this repo is where i store my projects made in creative coding: python
 
 ## resources i'm using to learn python
 
-- class resources
+- [Official Python Tutorial from the syllabus](https://docs.python.org/3/tutorial/index.html)
+- [Python as fast as possible from the syllabus](https://www.youtube.com/watch?v=VchuKL44s6E)
 - [W3 tutorials](https://www.w3schools.com/python/default.asp)
