@@ -8,4 +8,4 @@ I changed both the characters displayed in the stream as well as the time delay 
 
 <img src="scroll2.png" width="300" alt="This is another screenshot of the code running.">
 
-[Code](lightning_homework.py)
+[Code](lightning_hw.py)
