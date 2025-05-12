@@ -11,5 +11,5 @@ For my final project, I want to use python to create some data visualizations (s
 
 ## Test Data Visualization
 
-<img src="us_total_copy.png" width="300" alt="U.S. incarceration rates over time.">
+<img src="us_total.png" width="300" alt="U.S. incarceration rates over time.">
 
